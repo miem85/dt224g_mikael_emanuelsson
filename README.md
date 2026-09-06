@@ -12,7 +12,8 @@ Sidan består av `index.html`, `kontakt.html` och `hobby.html`.
 
 ## Länkar
 
-[GitHub Pages moment 2](https://miem85.github.io/dt224g_mikael_emanuelsson/)
+[GitHub Klon länk](https://github.com/miem85/dt224g_mikael_emanuelsson.git)
+[GitHub pages moment 2](https://miem85.github.io/dt224g_mikael_emanuelsson/)
 [Netlify](https://dt224gmikaelemanuelsson.netlify.app/)
 [Personlig GitHub Profil](https://github.com/miem85)
 
