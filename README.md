@@ -9,6 +9,7 @@ Sidan består av `index.html`, `kontakt.html` och `hobby.html`.
 
 * HTML
 * Markdown
+* CSS
 
 ## Länkar
 
@@ -40,3 +41,7 @@ GitHub används för att lagra koden och versionshistoriken. Netlify används f�
 ### Exkludera filer
 
 I `.gitignore` kan man ange sådant som inte ska versionshanteras, till exempel känslig information, vissa filer, `node_modules` och loggfiler.
+
+## CSS
+
+Jag har skapat en branch som heter `CSS` här testar jag att lägga till **CSS**.
