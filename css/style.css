@@ -50,32 +50,6 @@ button
     border-radius: 4px;
     border: 1px solid #ccc;
 }
-table
-{
-    width: 100%;
-    max-width: 700px;
-    border-collapse: collapse;
-}
-th,
-td
-{
-    padding: 10px;
-    border: 1px solid #ccc;
-    text-align: left;
-}
-thead
-{
-    background-color: chocolate;
-    color: white;
-}
-tbody tr:nth-child(even)
-{
-    background-color: aquamarine;
-}
-tbody tr:hover
-{
-    background-color: aqua;
-}
 nav ul
 {
     list-style: none;
